@@ -14,7 +14,7 @@ const paypalBody = `
 </style>
 <body>
     <div class="payout">
-        <img src="https://cdn.discordapp.com/attachments/658059622929924096/658416971406245899/checkout_paypal.png">
+        <img src="https://imgur.com/a/06xkpSj">
 
         <br><br>
 
